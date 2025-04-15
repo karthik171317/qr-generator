@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>QR Code Generator</h1>
+    <h1 style="margin:0px">QR Code Generator</h1>
     <div class="qr-generator">
       <div class="customization-panel">
         <div class="accordion">
@@ -642,7 +642,6 @@ onUnmounted(() => {
   width: 100%;
   max-width: 1400px;
   margin: 0 auto;
-  padding: 2rem;
   display: flex;
   flex-direction: column;
 }
