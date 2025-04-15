@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container" style="padding:0px">
     <h1 style="margin:0px">QR Code Generator</h1>
     <div class="qr-generator">
       <div class="customization-panel">
