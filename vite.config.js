@@ -6,7 +6,7 @@ export default defineConfig({
   server: {
     port: 3000
   },
-  base: '/qr-generator/',
+  base: '/qr-generator',
   build: {
     outDir: 'dist'
   }
