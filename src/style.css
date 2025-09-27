@@ -273,7 +273,7 @@ button:hover {
 }
 
 .file-input {
-  width: 100%;
+  width: auto;
   padding: 0.5rem;
   border: 2px solid var(--border-color);
   border-radius: 8px;
